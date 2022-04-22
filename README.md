@@ -1,5 +1,7 @@
 # spec2rgb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hdspgroup/spec2rgb/blob/main/demo.ipynb)
+
 Python Script to map spectral image to a RGB representation.
 
 ## Key Features
