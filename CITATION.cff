@@ -2,13 +2,13 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: spec2rgb
+title: "spec2rgb"
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Brayan
-    family-names: Monroy
-    affiliation: Universidad Industrial de Santander
+  - given-names: "Brayan"
+    family-names: "Monroy"
+    affiliation: "Universidad Industrial de Santander"
 url: "https://github.com/hdspgroup/spec2rgb"
